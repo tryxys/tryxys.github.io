@@ -1,0 +1,26 @@
+/*  pink color style    */
+.btn-1:hover,
+.story-section .story-item i,
+.story-section .story-text h3,
+.couple-section .social-links a i,
+.couple-section .couple i.fa-heart,
+.couple-section .couple h3,
+.header .nav ul li a.active,
+.header .nav ul li a:hover{
+    color: #fb839e;
+    
+    font-weight: bold;
+}
+.btn-1,
+.event-section .event-item-inner:before,
+.story-section .story-img img,
+.couple-section .social-links a i,
+.couple-section .couple img{
+    border-color: #fb839e ;
+}
+.bible-cap-section,
+.btn-1,
+.event-section,
+.couple-section .social-links a:hover i{
+    background-color: #fb839e ;
+}
